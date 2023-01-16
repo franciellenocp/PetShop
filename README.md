@@ -1,3 +1,3 @@
 # PetShop
-Projeto OOII
+Projeto Final Orientada Objetos II - ADA
 
